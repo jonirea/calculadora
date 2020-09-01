@@ -29,7 +29,7 @@ $(document).ready(function(){
     $('#zero').click(function(){ 
         document.forms.display.value += "0";
     });
-    $('#adds').click(function(){ 
+    $('#add').click(function(){ 
         document.forms.display.value += "+";
     });
     $('#subs').click(function(){ 
